@@ -8,4 +8,8 @@ font:
 shell:
   program: /usr/bin/fish
   args: ['--login']
+cursor:
+  blink_interval: 250 
+  style:
+    blinking: Always
 
